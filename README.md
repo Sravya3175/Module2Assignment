@@ -1,2 +1,3 @@
 # Module2Assignment
-HTML CSS 
+Using HTML CSS 
+You can view at https://sravya3175.github.io/Module2Assignment/
